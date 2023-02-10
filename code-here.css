@@ -1,25 +1,71 @@
 #classic {
-  
+  text-align: justify;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-weight: 500;
+  float: left;
+  margin-left: 100px;
 }
 
 #modern {
-
+    text-align: center;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-weight: 700;
+    font-family: sans-serif;
+    background: #fed703;
+    font-weight: 500;
+    box-shadow: 2px 2px 4px rgb(195, 194, 194);
+    float: left;
+    margin-left: 100px;
 }
 
 #impact {
-
+    padding: 16px;
+    text-align: center;
+    font-family: sans-serif;
+    background: #90EE90;
+    font-weight: 500;
+    border: 15px double black;
+    float: left;
+    margin-left: 100px;
 }
 
 #elise {
-
+    padding: 16px;
+    text-align: center;
+    font-family: cursive;    
+    font-weight: 600;
+    background: floralwhite;
+    border: 6px groove #faebd7;
+    box-shadow: 2px 2px 4px rgb(195, 194, 194);
+    float: left;
+    margin-left: 100px;
 }
 
 #one, #two  {
-
+    display: inline-block;
+    margin-left: 40px;
+    padding: 16px;
+    text-align: center;
+    font-weight: 500;
+    font-family: sans-serif;
+    background: #7efde4;
+    border: 10px ridge rgb(33, 176, 195);
 }
 
 #gaudi {
-
+    padding: 20px;
+    text-align: center;
+    font-weight: 600;
+    font-family: sans-serif;
+    background: rgb(251, 160, 122);
+    border-radius: 15px 50px;
+    box-shadow: 2px 2px 4px rgb(34, 32, 32);
+    float: left;
+    margin-left: 100px;
 }
 
 
